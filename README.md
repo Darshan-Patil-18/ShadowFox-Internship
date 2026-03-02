@@ -116,7 +116,7 @@ ShadowFox/
 1. Clone the repository
 
 ```
-git clone https://github.com/Darshan-Patil-18/ShadowFox-Internship
+git clone https://github.com/Darshan-Patil-18/ShadowFox-Internship.git
 ```
 
 2. Install required Python libraries
