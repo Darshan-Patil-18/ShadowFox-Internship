@@ -90,7 +90,7 @@ These tools were used for data cleaning, analysis, and visualization.
 # Repository Structure
 
 ```
-ShadowFox-Data-Science-Internship/
+ShadowFox/
 │
 ├── Task1(Begineer)/
 │   ├── Data_visualization.ipynb
@@ -116,7 +116,7 @@ ShadowFox-Data-Science-Internship/
 1. Clone the repository
 
 ```
-git clone https://github.com/your-username/shadowfox-data-science-internship.git
+git clone https://github.com/Darshan-Patil-18/ShadowFox-Internship
 ```
 
 2. Install required Python libraries
